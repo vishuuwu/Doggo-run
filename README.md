@@ -51,7 +51,7 @@ git push -u origin <your_branch_name>
 
 8. Create a <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request" title="Pull Request">Pull-Request</a> to `main`.
 
-9. Congratulations! 🎉 you've made your contribution to <a href="https://github.com/GDSC-IIIT-Kalyani/Winter-of-Code-2.0-frontend" title="Winter-of-Code-2.0-frontend">Winter-of-Code-2.0-frontend</a>.
+9. Congratulations! 🎉 you've made your contribution 
 
 <h1 id="contribute">Contributing</h1>
 
